@@ -1,4 +1,5 @@
-baseURL = "/"
+# baseURL = "/"
+baseURL = "https://vincentpham13.github.io/trai-de-anh-dong/"
 publishDir = "docs"
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
